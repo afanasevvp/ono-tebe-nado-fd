@@ -1,1 +1,1 @@
-https://github.com/afanasevvp/ono-tebe-nado
+https://github.com/afanasevvp/ono-tebe-nado-fd
